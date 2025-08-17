@@ -1,50 +1,155 @@
-[02:34:59] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
-[02:35:00] [main/INFO]: Loading 4 mods:
+[02:52:41] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[02:52:42] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.14
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.8
-[02:35:00] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/turbo-octo-carnival/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[02:35:06] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:35:07] [main/INFO]: No existing world data, creating new world
-[02:35:08] [main/INFO]: Loaded 1407 recipes
-[02:35:08] [main/INFO]: Loaded 1520 advancements
-[02:35:08] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[02:35:08] [Server thread/INFO]: Loading properties
-[02:35:08] [Server thread/INFO]: Default game type: SURVIVAL
-[02:35:08] [Server thread/INFO]: Generating keypair
-[02:35:08] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:35:08] [Server thread/INFO]: Using epoll channel type
-[02:35:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:35:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:35:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:35:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:35:08] [Server thread/INFO]: Preparing level "world"
-[02:35:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:35:15] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[02:35:16] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[02:35:16] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:35:17] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[02:35:17] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[02:35:18] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[02:35:18] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[02:35:19] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[02:35:19] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[02:35:20] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[02:35:20] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[02:35:21] [Server thread/INFO]: Time elapsed: 5409 ms
-[02:35:21] [Server thread/INFO]: Done (12.632s)! For help, type "help"
-[02:36:21] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[02:37:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[02:37:59] [Server thread/INFO]: <--[HERE]
-[02:38:39] [Server thread/INFO]: Stopping the server
-[02:38:39] [Server thread/INFO]: Stopping server
-[02:38:39] [Server thread/INFO]: Saving players
-[02:38:39] [Server thread/INFO]: Saving worlds
-[02:38:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:38:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:38:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:38:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:38:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:38:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:38:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:52:42] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/turbo-octo-carnival/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[02:52:47] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:52:49] [main/INFO]: Loaded 1407 recipes
+[02:52:49] [main/INFO]: Loaded 1520 advancements
+[02:52:49] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[02:52:49] [Server thread/INFO]: Loading properties
+[02:52:49] [Server thread/INFO]: Default game type: SURVIVAL
+[02:52:49] [Server thread/INFO]: Generating keypair
+[02:52:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:52:50] [Server thread/INFO]: Using epoll channel type
+[02:52:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:52:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:52:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:52:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:52:50] [Server thread/INFO]: Preparing level "Ooaaa"
+[02:52:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:52:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:52:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:52:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:52:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:52:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:52:53] [Server thread/INFO]: Time elapsed: 2508 ms
+[02:52:53] [Server thread/INFO]: Done (2.869s)! For help, type "help"
+[02:53:53] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:54:40] [Server thread/INFO]: NicolasRamosR[/127.178.88.244:51147] logged in with entity id 22 at (-7.5, 95.0, 7.5)
+[02:54:40] [Server thread/INFO]: NicolasRamosR joined the game
+[02:55:10] [Server thread/INFO]: Matielculon2[/127.199.243.58:54829] logged in with entity id 436 at (-9.5, 95.0, -5.5)
+[02:55:10] [Server thread/INFO]: Matielculon2 joined the game
+[02:55:51] [Server thread/INFO]: [Not Secure] <NicolasRamosR> No sabia esto de las hojas
+[02:55:58] [Server thread/INFO]: [Not Secure] <Matielculon2> uy
+[02:56:05] [Server thread/INFO]: [Not Secure] <Matielculon2> me va medio trabado
+[02:56:18] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Bajale un poco los graficos
+[02:56:26] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Ponelos en rapido y asi
+[02:57:13] [Server thread/INFO]: [Not Secure] <Matielculon2> bueno no se
+[02:57:16] [Server thread/INFO]: [Not Secure] <Matielculon2> juguemos
+[02:57:19] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Es complicado
+[02:57:20] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Dale
+[02:57:25] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Los chunks baja
+[02:57:31] [Server thread/INFO]: [Not Secure] <Matielculon2> NICO SEGUIME
+[02:57:35] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Ok
+[02:58:02] [Server thread/WARN]: NicolasRamosR moved too quickly! 5.878075541449576,2.0,8.136005966262644
+[02:58:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2234ms or 44 ticks behind
+[02:58:13] [Server thread/INFO]: NicolasRamosR has made the advancement [Ice Bucket Challenge]
+[02:58:22] [Server thread/INFO]: Matielculon2 has made the advancement [Ice Bucket Challenge]
+[02:58:26] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Ahi va
+[02:58:27] [Server thread/INFO]: [Not Secure] <Matielculon2> Cofre pedorro
+[02:58:31] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Jajjajajaj
+[02:58:46] [Server thread/INFO]: [Not Secure] <Matielculon2> EU
+[02:58:53] [Server thread/INFO]: [Not Secure] <Matielculon2> ya esta el mod?
+[02:59:00] [Server thread/INFO]: [Not Secure] <NicolasRamosR> No, no tiene nada
+[02:59:07] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Mañana hacemos mejor eso
+[02:59:13] [Server thread/INFO]: [Not Secure] <Matielculon2> dale
+[03:00:07] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Ahí te di hacha y pico
+[03:01:02] [Server thread/INFO]: Matielculon2 has made the advancement [Stone Age]
+[03:01:32] [Server thread/INFO]: [Not Secure] <Matielculon2> eu Nico
+[03:01:39] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Decime
+[03:01:46] [Server thread/INFO]: [Not Secure] <Matielculon2> dps decime como instalar mods y ponerlos en esta versión
+[03:01:51] [Server thread/INFO]: [Not Secure] <Matielculon2> porfa
+[03:01:56] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Si obvio
+[03:02:02] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Es solo saber donde ponerlos
+[03:02:11] [Server thread/INFO]: [Not Secure] <Matielculon2> dale
+[03:02:19] [Server thread/INFO]: NicolasRamosR has made the advancement [Stone Age]
+[03:04:12] [Server thread/INFO]: [Not Secure] <Matielculon2> nos van a violar
+[03:04:16] [Server thread/INFO]: [Not Secure] <NicolasRamosR> x?
+[03:04:23] [Server thread/INFO]: [Not Secure] <NicolasRamosR> ah mal
+[03:04:27] [Server thread/INFO]: [Not Secure] <NicolasRamosR> No tenemos nd
+[03:04:30] [Server thread/INFO]: [Not Secure] <Matielculon2> jajajjaja
+[03:04:48] [Server thread/INFO]: [Not Secure] <Matielculon2> NICO
+[03:04:53] [Server thread/INFO]: [Not Secure] <Matielculon2> VENI
+[03:04:56] [Server thread/INFO]: [Not Secure] <NicolasRamosR> ?
+[03:04:57] [Server thread/INFO]: [Not Secure] <Matielculon2> VAS A CORRER?
+[03:05:00] [Server thread/INFO]: [Not Secure] <NicolasRamosR> JAJAJJ
+[03:05:01] [Server thread/INFO]: [Not Secure] <NicolasRamosR> SI
+[03:06:00] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Veni
+[03:06:15] [Server thread/INFO]: NicolasRamosR was slain by Matielculon2
+[03:06:20] [Server thread/INFO]: Matielculon2 has made the advancement [Monster Hunter]
+[03:06:23] [Server thread/INFO]: [Not Secure] <NicolasRamosR> NOOO AJJAJAJ
+[03:06:25] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Pera
+[03:06:27] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Ahí voy
+[03:06:42] [Server thread/INFO]: [Not Secure] <Matielculon2> YA NO AGUANTO MAS
+[03:06:52] [Server thread/INFO]: [Not Secure] <Matielculon2> lo dio todo el zombie
+[03:07:16] [Server thread/INFO]: [Not Secure] <Matielculon2> SALE EL PRIME
+[03:08:33] [Server thread/INFO]: [Not Secure] <Matielculon2> ARMEMOS UN BARCO
+[03:08:54] [Server thread/INFO]: [Not Secure] <Matielculon2> tengo 1 corazón loco
+[03:08:56] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Ahí armo yo
+[03:08:59] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Nooo JAJJA
+[03:09:00] [Server thread/INFO]: Matielculon2 fell from a high place
+[03:09:04] [Server thread/INFO]: [Not Secure] <NicolasRamosR> pero
+[03:09:07] [Server thread/INFO]: [Not Secure] <NicolasRamosR> JAJAJAJJA
+[03:09:08] [Server thread/INFO]: [Not Secure] <Matielculon2> la concha de la lora
+[03:09:10] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Pera
+[03:09:21] [Server thread/INFO]: Made NicolasRamosR a server operator
+[03:09:32] [Server thread/INFO]: [NicolasRamosR: Teleported Matielculon2 to NicolasRamosR]
+[03:09:58] [Server thread/INFO]: NicolasRamosR has made the advancement [Monster Hunter]
+[03:10:04] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Tengo un cora
+[03:10:05] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Pera
+[03:10:29] [Server thread/INFO]: [Not Secure] <Matielculon2> q
+[03:10:30] [Server thread/INFO]: NicolasRamosR hit the ground too hard
+[03:10:36] [Server thread/INFO]: [NicolasRamosR: Teleported NicolasRamosR to Matielculon2]
+[03:10:39] [Server thread/INFO]: [Not Secure] <Matielculon2> qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+[03:11:09] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Eu
+[03:11:14] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Me agarro la re nostalgia
+[03:11:20] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Con la cancioncita del mie
+[03:11:22] [Server thread/INFO]: [Not Secure] <NicolasRamosR> mine*
+[03:11:23] [Server thread/INFO]: [Not Secure] <Matielculon2> mal
+[03:11:27] [Server thread/INFO]: [Not Secure] <Matielculon2> mira atras
+[03:11:29] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Tipo cuando jugabamos antes
+[03:11:35] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Naaahhh
+[03:11:38] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Amigo
+[03:11:41] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Q juegazo
+[03:11:46] [Server thread/INFO]: [Not Secure] <Matielculon2> malll
+[03:11:52] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Che pa
+[03:11:56] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Hay que volver a jugar mine
+[03:12:02] [Server thread/INFO]: [Not Secure] <Matielculon2> o no q si
+[03:12:06] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Obvio
+[03:12:08] [Server thread/INFO]: [Not Secure] <Matielculon2> ahora q podemos
+[03:12:24] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Creo que lo mejor que hiciste hasta ahora fue disculparte conmigo Jajajaj
+[03:12:30] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Osea ahora podemos hacer todo esto
+[03:12:36] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Y lo disfruto mas
+[03:12:44] [Server thread/INFO]: [Not Secure] <Matielculon2> mal jajajaj
+[03:12:51] [Server thread/INFO]: [Not Secure] <Matielculon2> bno
+[03:12:55] [Server thread/INFO]: [Not Secure] <Matielculon2> el barco
+[03:12:59] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Ah mal
+[03:13:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-60, y=64, z=241} class_2338{x=-60, y=62, z=241}
+[03:13:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-61, y=64, z=245} class_2338{x=-60, y=62, z=247}
+[03:16:06] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Eu y si seguimos mañana?
+[03:16:12] [Server thread/INFO]: [Not Secure] <Matielculon2> dale
+[03:16:14] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Y le meto los mods y todo
+[03:16:17] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Juguemos un rato brawl
+[03:16:18] [Server thread/INFO]: [Not Secure] <Matielculon2> ya es tarde
+[03:16:19] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Si podes
+[03:16:22] [Server thread/INFO]: [Not Secure] <Matielculon2> dale
+[03:16:30] [Server thread/INFO]: [Not Secure] <Matielculon2> voy entrando al brawl
+[03:16:33] [Server thread/INFO]: [Not Secure] <NicolasRamosR> Dale
+[03:16:34] [Server thread/INFO]: Matielculon2 lost connection: Disconnected
+[03:16:34] [Server thread/INFO]: Matielculon2 left the game
+[03:16:36] [Server thread/INFO]: NicolasRamosR lost connection: Disconnected
+[03:16:36] [Server thread/INFO]: NicolasRamosR left the game
+[03:16:41] [Server thread/INFO]: Stopping the server
+[03:16:41] [Server thread/INFO]: Stopping server
+[03:16:41] [Server thread/INFO]: Saving players
+[03:16:41] [Server thread/INFO]: Saving worlds
+[03:16:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Ooaaa]'/minecraft:overworld
+[03:16:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Ooaaa]'/minecraft:the_end
+[03:16:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Ooaaa]'/minecraft:the_nether
+[03:16:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (Ooaaa): All chunks are saved
+[03:16:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:16:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:16:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
