@@ -1,79 +1,65 @@
-[17:58:08] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:58:09] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:58:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:58:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:58:09] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:58:09] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:58:09] [main/INFO]: Reloading ResourceManager: Default
-[17:58:10] [Worker-Main-2/INFO]: Loaded 7 recipes
-[17:58:10] [Worker-Main-2/INFO]: Loaded 927 advancements
-[17:58:13] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[17:58:13] [Server thread/INFO]: Loading properties
-[17:58:13] [Server thread/INFO]: Default game type: SURVIVAL
-[17:58:13] [Server thread/INFO]: Generating keypair
-[17:58:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:58:13] [Server thread/INFO]: Using epoll channel type
-[17:58:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:58:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:58:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:58:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:58:13] [Server thread/INFO]: Preparing level "world"
-[17:58:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:58:16] [Server thread/INFO]: Preparing spawn area: 0%
-[17:58:16] [Server thread/INFO]: Preparing spawn area: 0%
-[17:58:16] [Server thread/INFO]: Preparing spawn area: 0%
-[17:58:16] [Server thread/INFO]: Preparing spawn area: 0%
-[17:58:16] [Server thread/INFO]: Preparing spawn area: 0%
-[17:58:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:58:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:58:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:58:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:58:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:58:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:58:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:58:19] [Server thread/INFO]: Preparing spawn area: 43%
-[17:58:20] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[17:58:20] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[17:58:21] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[17:58:21] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[17:58:22] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[17:58:23] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[17:58:23] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[17:58:23] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[17:58:24] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[17:58:24] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[17:58:25] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[17:58:25] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[17:58:26] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[17:58:26] [Server thread/INFO]: Preparing spawn area: 85%
-[17:58:27] [Server thread/INFO]: Preparing spawn area: 86%
-[17:58:27] [Worker-Main-2/INFO]: Preparing spawn area: 89%
-[17:58:28] [Server thread/INFO]: Preparing spawn area: 89%
-[17:58:28] [Worker-Main-2/INFO]: Preparing spawn area: 92%
-[17:58:29] [Worker-Main-2/INFO]: Preparing spawn area: 94%
-[17:58:29] [Worker-Main-2/INFO]: Preparing spawn area: 94%
-[17:58:30] [Server thread/INFO]: Preparing spawn area: 95%
-[17:58:30] [Worker-Main-2/INFO]: Preparing spawn area: 96%
-[17:58:31] [Server thread/INFO]: Time elapsed: 17480 ms
-[17:58:31] [Server thread/INFO]: Done (17.563s)! For help, type "help"
-[18:01:56] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[18:01:56] [Server thread/INFO]: <--[HERE]
-[18:01:56] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[18:01:56] [Server thread/INFO]: <--[HERE]
-[18:04:36] [Server thread/INFO]: juan[/127.245.174.157:59561] logged in with entity id 71 at (-224.5, 64.0, -11.5)
-[18:04:36] [Server thread/INFO]: juan joined the game
-[18:05:55] [Server thread/INFO]: juan lost connection: Disconnected
-[18:05:55] [Server thread/INFO]: juan left the game
-[18:06:38] [Server thread/INFO]: Stopping the server
-[18:06:38] [Server thread/INFO]: Stopping server
-[18:06:38] [Server thread/INFO]: Saving players
-[18:06:38] [Server thread/INFO]: Saving worlds
-[18:06:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:06:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:06:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:06:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:06:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:06:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:06:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:06:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:06:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:09:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[06:09:27] [ServerMain/INFO]: No existing world data, creating new world
+[06:09:28] [ServerMain/INFO]: Loaded 1407 recipes
+[06:09:28] [ServerMain/INFO]: Loaded 1520 advancements
+[06:09:28] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[06:09:28] [Server thread/INFO]: Loading properties
+[06:09:28] [Server thread/INFO]: Default game type: SURVIVAL
+[06:09:28] [Server thread/INFO]: Generating keypair
+[06:09:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:09:29] [Server thread/INFO]: Using epoll channel type
+[06:09:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:09:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:09:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:09:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:09:29] [Server thread/INFO]: Preparing level "world"
+[06:09:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:09:45] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[06:09:46] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[06:09:46] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[06:09:46] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[06:09:46] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[06:09:47] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[06:09:47] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[06:09:48] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[06:09:48] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[06:09:49] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[06:09:49] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[06:09:50] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[06:09:50] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[06:09:51] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[06:09:51] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[06:09:52] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[06:09:52] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[06:09:53] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[06:09:53] [Worker-Main-1/INFO]: Preparing spawn area: 79%
+[06:09:54] [Server thread/INFO]: Time elapsed: 9098 ms
+[06:09:54] [Server thread/INFO]: Done (24.881s)! For help, type "help"
+[06:10:53] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[06:11:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:11:05] [Server thread/INFO]: <--[HERE]
+[06:11:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:11:05] [Server thread/INFO]: <--[HERE]
+[06:11:23] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:11:23] [Server thread/INFO]: <--[HERE]
+[06:14:02] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:14:02] [Server thread/INFO]: <--[HERE]
+[06:14:25] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:14:25] [Server thread/INFO]: <--[HERE]
+[06:14:25] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:14:25] [Server thread/INFO]: <--[HERE]
+[06:15:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:15:21] [Server thread/INFO]: <--[HERE]
+[06:15:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:15:22] [Server thread/INFO]: <--[HERE]
+[06:15:23] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:15:23] [Server thread/INFO]: <--[HERE]
+[06:17:59] [Server thread/INFO]: juan[/127.245.174.157:47733] logged in with entity id 35 at (0.5, 140.0, 2.5)
+[06:17:59] [Server thread/INFO]: juan joined the game
+[06:18:07] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:18:07] [Server thread/INFO]: <--[HERE]
+[06:21:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:21:18] [Server thread/INFO]: <--[HERE]
+[06:23:36] [Server thread/INFO]: juan has made the advancement [Stone Age]
+[06:26:03] [Server thread/INFO]: juan has made the advancement [Getting an Upgrade]
+[06:28:14] [Server thread/INFO]: juan has made the advancement [Sweet Dreams]
